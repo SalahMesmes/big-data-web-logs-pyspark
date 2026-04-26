@@ -814,18 +814,3 @@ Les résultats sont exportés dans des fichiers CSV.
 
 Streamlit affiche ensuite ces résultats dans un dashboard.
 
-En résumé :
-
-```text
-Le projet transforme des logs web bruts en indicateurs compréhensibles pour analyser l’activité d’un site e-commerce.
-```
-
----
-
-## Conclusion
-
-Ce projet est un exemple simple mais complet d’analyse Big Data avec PySpark.
-
-Il permet de comprendre comment traiter un fichier de logs web, calculer des indicateurs utiles et présenter les résultats dans un dashboard.
-
-Même si le dataset est volontairement limité à 1000 lignes, la structure du projet montre une logique proche d’un vrai projet data en entreprise.
