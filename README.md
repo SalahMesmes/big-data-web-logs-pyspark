@@ -802,7 +802,7 @@ dashboard
 
 ---
 
-## Résumé simple
+## Résumé 
 
 Ce projet analyse les actions des utilisateurs sur un site e-commerce.
 
